@@ -19,10 +19,10 @@ f_name = (return_formatted_name("marcus           "))
 print(say_hello((f_name)))
 
 
-# Basis of a test
-
-def return_formatted_name(name):
-    return name.title().strip()
+# # Basis of a test
+#
+# def return_formatted_name(name):
+#     return name.title().strip()
 
 
 # test setup
