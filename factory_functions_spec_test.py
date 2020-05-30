@@ -1,5 +1,5 @@
 # Define the tests before we code the functions
-from Factory_functions import *
+from factory_functions import *
 
 # <user story> As a user, I want to make dough with water and flour, so that I can then make bread (3)
 # test 1
